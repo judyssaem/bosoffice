@@ -1,0 +1,6 @@
+{
+  "name": "KOBIS 일일 박스오피스",
+  "description": "KOBIS OpenAPI를 활용하여 일일 박스오피스 순위 및 상세 영화 정보를 조회하는 대시보드 웹 어플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
